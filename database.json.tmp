@@ -1,0 +1,111 @@
+{
+  "users": {
+    "5214774739565@s.whatsapp.net": {
+      "exp": 9999999,
+      "limit": 99999992,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "odin",
+      "age": 20,
+      "regTime": 1644834191258,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Dios de la SEDUCCION",
+      "autolevelup": false,
+      "ref_count": 0
+    },
+    "5219581372967@s.whatsapp.net": {
+      "exp": 2541,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Diosa",
+      "age": 20,
+      "regTime": 1644834191258,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Diosa",
+      "autolevelup": false,
+      "ref_count": 0
+    },
+    "5213331170357@s.whatsapp.net": {
+      "exp": 99999999,
+      "limit": 9999999,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Feliz Locote",
+      "age": 20,
+      "regTime": 1644834191258,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Dios del prostibulo",
+      "autolevelup": false,
+      "ref_count": 0
+    },
+    "5215591619052@s.whatsapp.net": {
+      "exp": 9999999,
+      "limit": 999999,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "Bot pro",
+      "age": 20,
+      "regTime": 1644834191258,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "pc": 0,
+      "level": 0,
+      "role": "Dios de la Seducción",
+      "autolevelup": false,
+      "ref_count": 0
+    }
+  },
+  "chats": {
+    "5214774739565@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "antiToxic": true,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "exp-limit.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1650938680388,
+      "lastSuccess": 1650938680388
+    },
+    "broadcast.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1650938691071,
+      "lastSuccess": 1650938691071
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "5215591619052@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    }
+  }
+}
